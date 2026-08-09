@@ -1,6 +1,13 @@
 # Semantic Book Recommendation System
-https://semanticbooksrecommendation-tm7pdn3kxsrmmttvs2jjsc.streamlit.app/
-![books_search](https://github.com/user-attachments/assets/c8575e3d-ccd0-4dea-87d0-0fedf637d32d)
+https://semanticbooksrecommendation-advika.streamlit.app/
+
+https://github.com/user-attachments/assets/75210d97-d5d8-48a0-a6b9-2558d2c19343
+
+
+
+
+
+
 
 
 
