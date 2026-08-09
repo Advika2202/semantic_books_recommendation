@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Generated FAISS index (rebuilt from tagged_description.txt on first run)
+faiss_books_index/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv_check/
+.venv_check2/
+
+# Streamlit
+.streamlit/secrets.toml
